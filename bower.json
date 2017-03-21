@@ -1,0 +1,30 @@
+{
+  "name": "order-genie",
+  "version": "0.3.0",
+  "homepage": "https://github.com/",
+  "authors": [
+    "efranc118@gmail.com <efranc118@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.7",
+    "jquery": "~2.2.0",
+    "bootstrap": "^3.3.7",
+    "jquery-timeago": "~1.4.1",
+    "requirejs": "~2.1.22",
+    "showdown": "~0.3.1",
+    "todomvc-common": "~0.1.9",
+    "director": "~1.2.2",
+    "classnames": "~2.2.3"
+  }
+}
